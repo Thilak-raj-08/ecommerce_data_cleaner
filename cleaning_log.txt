@@ -1,0 +1,12 @@
+Original Rows: 1000
+Duplicate Rows Removed: 50
+Invalid Quantity Rows Removed: 45
+Missing Prices Filled Using Product Median: 66
+City Names: Removed outer spaces and applied title case
+Order Dates: Converted mixed formats to datetime, day first
+Invalid Date Rows Removed: 24
+Total Rows Removed: 119
+Final Rows: 881
+Remaining Missing Values: 0
+Remaining Duplicate Rows: 0
+Output File: clean_orders.csv
